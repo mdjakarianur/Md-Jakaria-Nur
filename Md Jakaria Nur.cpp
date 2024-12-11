@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <iostream>
+
+using namespace std;
 
 int main() {
-    
-    printf("Hello World!");
-
+    cout << "Md Jakaria Nur" <<endl;
     return 0;
 }
